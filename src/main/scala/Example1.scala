@@ -7,7 +7,4 @@ case object Example1 extends App {
 
   }
 
-
-
-
 }
